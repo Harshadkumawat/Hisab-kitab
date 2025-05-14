@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = ({ toggleTheme, theme }) => {
   return (
-    <nav className={theme === "light" ? "bg-green-600" : "bg-gray-800 p-4"}>
+    <nav className={theme === "light" ? "bg-green-600 p-4" : "bg-gray-800 p-4"}>
       <div className="container mx-auto flex justify-between items-center">
         <span className="text-white text-xl font-bold">KhataBook</span>
         <button
