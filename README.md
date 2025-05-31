@@ -1,8 +1,25 @@
-# React + Vite
+# Hisab Kitab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Hisab Kitab is a simple and elegant personal finance tracker built with React.js and Tailwind CSS. It allows users to add and categorize income and expenses, track balances, and maintain an overview of their financial health. The app is fully responsive and designed with a clean gray theme for easy use on both desktop and mobile devices.
 
-Currently, two official plugins are available:
+## Features
+- Add income and expense transactions with categories
+- View total income, total expenses, and current balance
+- Transaction list with details and amounts
+- Responsive design for all device sizes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js
+- Tailwind CSS
+- Vite 
+  
+- Vercel for deployment
+
+## Deployment
+Live demo available at: [https://hisab-kitab-gray.vercel.app/](https://hisab-kitab-gray.vercel.app/)
+
+## Author
+Harshad Kumawat
+
+
